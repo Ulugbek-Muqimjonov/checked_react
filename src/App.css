@@ -1,0 +1,13 @@
+body {
+    display: grid;
+    place-content: center;
+    background-color: #0080bf;
+    height: 100vh;
+}
+.app {
+    padding: 25px;
+    width: 470px;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 8px;
+}
